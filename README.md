@@ -13,8 +13,8 @@ It is clear that Summer time launch dates tended to bode very well compared to t
 The Goal set for the campaigns revealed interesting trends as well. The data strongly suggests a sweetspot for successful Kickstarter campaign goals for this subgenre to be goals set at less than $20k. It is noted, also, that there tend to be successful goals in the range of $35k to $45k. <br />
 ![](Outcomes_vs_Goals.png) <br /> <br />
 ***Results*** <br />
-(-) The subgenre of plays tended to be most successful in Summer months, particularly June, and least successful in the Winter months, particularly December.
-(-) Most successful Kickstarter campaigns for this subgenre had goals of no more than $20k, and with some success for those with goals between $35k and $45k. <br /> <br />
+- The subgenre of plays tended to be most successful in Summer months, particularly June, and least successful in the Winter months, particularly December.
+- Most successful Kickstarter campaigns for this subgenre had goals of no more than $20k, and with some success for those with goals between $35k and $45k. <br /> <br />
 ***Limitations of the Analysis*** <br />
 A cheif limitation of this report is that there remains very little context for clarifying why certain characteristics of campaigns tended towards succes or failure. There are also confounding factors that could be very relevant to the concerns of the client that can only be guessed at, such as: demographic of those pledging, socioeconomic levels of the regions of the kickstarter, and the marketing or promotion of the campaigns themselves. For instance, *why* is this subgenre so successful overal compared to other genres? Do Kickstarter algorithms favor certain genres or do certain campaigns naturally tend to be better promoted and thus gain better patronage? <br /> <br />
 **Note of Launch Date Indicator** <br />
