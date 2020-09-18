@@ -5,8 +5,8 @@ Prominent analysis reveals trends of Kickstarter Campaign launch dates and goal 
 ***Report*** <br />
 **The Plays Subgenre of Kickstarter Campaigns** <br />
 An analysis of Kickstarter campaigns is not only optimistic regarding campaigns for plays compared to other genres of campaigns, but illuminates multiple key factors that distinguish successful campaigns from their failed counterparts. The visualizations below demonstrate the relatively high number of theatre campaigns compared to other genres and show the majority of these theatre campaigns are indeed successful. <br />
-![](Parent_Category_Outcomes.png) ![](us_theatre_Outcomes.png) <br />
-More specifically, the month in which a campaign was launched tended to be a strong indicator for its potential success. As depicted, the majority of successful theatre campaigns were launched in the summer months--June in particular. <br />
-![](outcomes_by_launch_date.png) <br /> <br />
+![](Parent_Category_Outcomes.png) ![](us_theatre_Outcomes.png) <br /> <br />
 **Indicators of Success** <br />
-The scope of Louise's anticipated campaign amount is $4000. The descriptive statistics show that successful US Theatre campaigns tend to have smaller goals. A campaign of $4000 fits nicely into the middle 50% of successful campaigns, slightly above median. The boxplots illustrate the shape, center and spread of the Goals and Pledges for this genre which suggest that we would anticipatet that, all else the same, Louise's campaign is likely to be successful and have many small pledges. 
+Beyond the general success of this subgenre of Kickstarter campaigns, there emerged two key indicators for success among other similar campaigns: Launch date, and Goal amount. <br />
+It is clear that Summer time launch dates tended to bode very well compared to the rest of the year--particularly June. The visualization below shows this trend while backing up the claim that this subgenre is particularly successful as there are more successful than failed campaigns at all times through the year. <br /> 
+![](Theatre_Outcomes_vs_Launch.png)
